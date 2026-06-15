@@ -34,9 +34,6 @@ function folder:
 
 SMshow folder: 
        code and utilities for visualizing 3D brain maps
-
-example_results folder:
-       exampling results of running main.m
        
 Environment:
        MATLAB R2014a
