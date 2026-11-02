@@ -3,8 +3,6 @@ Matlab Code for "Uncovering abnormal patterns of schizophrenia from fMRI regiona
 data folder: 
 1. inbrain_ind.mat: indices of inbrain voxels
 2. Spatial_ref.mat: spatial references (Smith et al., 2009) for DMN, AUD and ECN
-3. cvDMN_COBRE.mat: complex-valued spatial maps for DMN component from COBRE dataset (42 SZs and 40 HCs)
-4. cvDMN_UCLA.mat: complex-valued spatial maps for DMN component from UCLA dataset (50 SZs and 50 HCs)
 
 Main code: 
 main.m : individual-level analysis. 
