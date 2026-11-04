@@ -40,5 +40,6 @@ SMshow folder: code and utilities for visualizing 3D brain maps
 Environment: MATLAB R2014a
 
 Data: complex-valued fMRI dataset (with supplementary DMN indices): https://zenodo.org/records/23930165
+      Magnitude-only fMRI dataset: https://openneuro.org/datasets/ds000030
 
 Citation: Niu Y. W. & Lin, Q. H. MATLAB source code for uncovering abnormal patterns of schizophrenia from fMRI source phase. https://github.com/trendscenter/source-phase-magnitude-awareness (2026).
