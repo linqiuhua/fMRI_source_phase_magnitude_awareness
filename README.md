@@ -33,7 +33,7 @@ function folder:
 22. FDR_group_differences.m : perform group-level difference with BH-FDR correction for activation magnitude and phase polarity transitions.
 23. sig_cube_phase_magnitude.m : form individual biomarker region with significant group-level difference in activation magnitude and phase polarity transitions.
 24. SMdisplay_overlap_fdr.m : 3D visualization of the overlapping spatial maps between significant difference of activation magnitude and phase polarity transitions after BH-FDR correction.
-25. SVM_classification.m : perform SVM classification using using activation magnitude, phase polarity transitions and their fusion.
+25. SVM_classification.m : perform SVM classification using activation magnitude, phase polarity transitions and their fusion.
 
 SMshow folder: code and utilities for visualizing 3D brain maps
 
